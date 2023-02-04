@@ -37,4 +37,8 @@ If you're seeking a Quantum Software Engineer and a Machine Learning Engineer wh
 
 Let's work together to drive innovation and create meaningful solutions.
 
+I can also contribute to various open source projects in these fields.
+
 "Don't hesitate to message me so as to discuss how I can put my skills and experience to work for you."
+
+Talk to you soon.
