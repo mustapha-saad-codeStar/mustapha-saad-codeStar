@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## ABOUT ME:
 ###### As a Quantum Software Engineer and a Machine Learning Engineer on a mission, I am eager to bring my unique blend of skills and expertise to your organization. 
 
-#### My passion for science and technology drives me to push the boundaries of what is possible in the quantum and machine learning worlds.
+My passion for science and technology drives me to push the boundaries of what is possible in the quantum and machine learning worlds.
 
 #### With a deep understanding of quantum computing algorithms and circuit design, combined with my coding proficiency, particularly in Python, I am capable of designing and developing cutting-edge quantum systems that deliver real results. 
 
