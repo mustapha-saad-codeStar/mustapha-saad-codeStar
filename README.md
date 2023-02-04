@@ -21,7 +21,7 @@ My passion for science and technology drives me to push the boundaries of what i
 
 With a deep understanding of quantum computing algorithms and circuit design, combined with my coding proficiency, particularly in Python, I am capable of designing and developing cutting-edge quantum systems that deliver real results. 
 
-#### My experience with programming and quantum mechanics allows me to approach each project with a holistic perspective, ensuring that the end product is not only technically sound, but also practical and user-friendly.
+My experience with programming and quantum mechanics allows me to approach each project with a holistic perspective, ensuring that the end product is not only technically sound, but also practical and user-friendly.
 
 In the realm of machine learning, I am equally proficient. 
 
